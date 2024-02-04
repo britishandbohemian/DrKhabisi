@@ -705,7 +705,7 @@ section {
 }
 .why-us .content {
   padding: 30px;
-  background: var(--primary-color);
+  background: #8a492f;
   border-radius: 4px;
   color: #fff;
   z-index: 12;
@@ -1410,7 +1410,7 @@ font-weight: bold;
 
 .testimonials .testimonial-item .testimonial-img {
   width: 90px;
-  border-radius: 10px;
+  border-radius: 100%;
   border: 6px solid #fff;
   position: absolute;
   left: -45px;
@@ -1463,11 +1463,11 @@ font-weight: bold;
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #1977cc;
+  border: 4px solid #ababab;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #1977cc;
+  background-color: #a34c00;
 }
 
 @media (max-width: 767px) {
@@ -1542,7 +1542,7 @@ font-weight: bold;
   padding: 0 0 0 60px;
   margin-bottom: 0;
   font-size: 14px;
-  color: #4b7dab;
+  color: #000000;
 }
 
 .contact .info .email,
@@ -1746,7 +1746,7 @@ font-weight: bold;
   position: relative;
   border-radius: 50px;
   text-align: left;
-  border: 1px solid #7c7c7c;
+  border: 1px solid #c9c9c9;
 }
 
 #footer .footer-newsletter form input[type=email] {
